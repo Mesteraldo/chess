@@ -1,0 +1,25 @@
+#chessboard_container {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
+
+#chessboard {
+  display: grid;
+  grid-template-columns: repeat(8, 5vw);
+  place-content: center;
+  border: 2px solid #000000;
+}
+
+#chessboard > div {
+  display: flex;
+  width: 5vw;
+  aspect-ratio: 1 / 1;
+  align-items: center;
+  justify-content: center;
+}
+
+#chessboard > div img {
+  height: 80%;
+  aspect-ratio: 1/1;
+}
