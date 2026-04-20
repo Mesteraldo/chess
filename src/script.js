@@ -1,16 +1,16 @@
 const pieces = {
-  blackPawn: "../media/pawn_black.png",
-  whitePawn: "../media/pawn.png",
-  blackBishop: "../media/bishop_black.png",
-  whiteBishop: "../media/bishop.png",
-  blackRook: "../media/rook_black.png",
-  whiteRook: "../media/rook.png",
-  blackKnight: "../media/knight_black.png",
-  whiteKnight: "../media/knight.png",
-  blackKing: "../media/king_black.png",
-  whiteKing: "../media/king.png",
-  blackQueen: "../media/queen_black.png",
-  whiteQueen: "../media/queen.png",
+  blackPawn: "media/pawn_black.png",
+  whitePawn: "media/pawn.png",
+  blackBishop: "media/bishop_black.png",
+  whiteBishop: "media/bishop.png",
+  blackRook: "media/rook_black.png",
+  whiteRook: "media/rook.png",
+  blackKnight: "media/knight_black.png",
+  whiteKnight: "media/knight.png",
+  blackKing: "media/king_black.png",
+  whiteKing: "media/king.png",
+  blackQueen: "media/queen_black.png",
+  whiteQueen: "media/queen.png",
 };
 
 const startpositions = [
